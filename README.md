@@ -1,4 +1,4 @@
-# language-coach
+# gemini-language-coach
 Create your own AI language coach in 5 minutes using the Gemini app. You can use these instructions
 to create [custom Gems](https://support.google.com/gemini/answer/15236321) that help you learn
 French vocabulary, practice conversations, and get coached on your writing.
