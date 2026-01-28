@@ -11,7 +11,7 @@ To use the Gemini app, you must [sign in to a Google Account](https://support.go
 
 ## Create a Gem for language learning
 
-To add this functionality in the Gemini app:
+To to create a language learning Gem in the Gemini app:
 
 1. Go to gemini.google.com
 1. From the menu, select **Settings & help** > **Instructions for Gemini**.
